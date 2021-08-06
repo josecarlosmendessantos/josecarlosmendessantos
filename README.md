@@ -3,6 +3,10 @@
 -✍ Cursando Análise e desenvolvimento de sistemas.<br>
 
 -🐱‍👤 Pronto para novos desafios.<br>
+
+-🎯 Focado em aprender tudo sobre Desenvolvimento Web.<br>
+
+-🥇 Aprendizagem de HTML, CSS e JavaScript.
 <hr>
 
 <div>
