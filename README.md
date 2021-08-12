@@ -4,7 +4,7 @@
 
 -🐱‍👤 Pronto para novos desafios.<br>
 
--🎯 Focado em aprender tudo sobre Desenvolvimento Web.<br>
+-🎯 Focado em aprender para ser torna um desenvolvendo Full Stack.<br>
 
 -🥇 Aprendizagem de HTML, CSS e JavaScript.
 <hr>
