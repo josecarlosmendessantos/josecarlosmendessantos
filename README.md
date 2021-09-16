@@ -6,7 +6,6 @@
 
 -🎯 Focado em aprender para ser torna um desenvolvendo Full Stack.<br>
 
--🥇 Aprendizagem de HTML, CSS e JavaScript.
 <hr>
 
 <div>
